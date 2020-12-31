@@ -7,7 +7,7 @@ export default function Home({data}) {
     return (
         <div className={css.container}>
             <Head>
-                <title>Antonin Barbier - {data.job}</title>
+                <title>Antonin Barbier - Développeur front-end</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <Header />
